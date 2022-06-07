@@ -1,0 +1,10 @@
+C:\Users\Jeefo\source\repos\IO_Jig\IO_Jig\bin\Debug\IO_Jig.exe.config
+C:\Users\Jeefo\source\repos\IO_Jig\IO_Jig\bin\Debug\IO_Jig.exe
+C:\Users\Jeefo\source\repos\IO_Jig\IO_Jig\bin\Debug\IO_Jig.pdb
+C:\Users\Jeefo\source\repos\IO_Jig\IO_Jig\obj\Debug\IO_Jig.Form1.resources
+C:\Users\Jeefo\source\repos\IO_Jig\IO_Jig\obj\Debug\IO_Jig.Properties.Resources.resources
+C:\Users\Jeefo\source\repos\IO_Jig\IO_Jig\obj\Debug\IO_Jig.csproj.GenerateResource.cache
+C:\Users\Jeefo\source\repos\IO_Jig\IO_Jig\obj\Debug\IO_Jig.csproj.CoreCompileInputs.cache
+C:\Users\Jeefo\source\repos\IO_Jig\IO_Jig\obj\Debug\IO_Jig.exe
+C:\Users\Jeefo\source\repos\IO_Jig\IO_Jig\obj\Debug\IO_Jig.pdb
+C:\Users\Jeefo\source\repos\IO_Jig\IO_Jig\obj\Debug\IO_Jig.csprojAssemblyReference.cache
